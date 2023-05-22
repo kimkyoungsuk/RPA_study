@@ -1,7 +1,7 @@
 {
-  "name": "메모장활용",
+  "name": "RPA실습",
   "description": "메모장에 copy/pats 텍스트 ",
-  "main": "Main.xaml",
+  "main": "실습.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.20.1]",
     "UiPath.Mail.Activities": "[1.18.2]",
@@ -50,6 +50,36 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "60710386-f921-4f05-a786-e2f88a0aeb97",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "퀴즈1.xaml",
+      "uniqueId": "8733a59b-4516-4c12-97a3-72e0c4a4ae39",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "퀴즈2.xaml",
+      "uniqueId": "eb49d083-9423-49b3-a63c-3accd6638c0d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "퀴즈2-1.xaml",
+      "uniqueId": "eb2fd2bb-acf2-4209-b3c7-718fd64b9e6c",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "퀴즈3.xaml",
+      "uniqueId": "6390ec20-f528-4916-b5d0-bb07187bc581",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "실습.xaml",
+      "uniqueId": "0fbd0579-d159-4e60-bec7-8ff0cb3b6cc3",
       "input": [],
       "output": []
     }
